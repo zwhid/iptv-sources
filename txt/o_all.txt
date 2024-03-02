@@ -1403,7 +1403,7 @@ like Gecko) Mobile/15E148",5 ԹԻՎԻ ՊԼՅՈՒՍ (480p),http://ott-cdn.ucom.am
 7D7 (1080p),https://d7tv.pp.ua/hls/d7tv.m3u8
 7 Info (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCqA1FRAWs2VIiXf2cUYSQBQ.m3u8
 7 Televisión Región de Murcia (1080p),https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
-8TV (720p),https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
+8TV (1080p),http://89.254.128.5:22280/8tv_hd/index.m3u8
 8 канал (Витебск) (576p) [Not 24/7],http://95.46.208.8:24433/art
 9Gem (720p),https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 9Go! (720p),https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
@@ -8871,6 +8871,7 @@ Grand Cinema,https://gcinemahls.wns.live/hls/stream.m3u8
 Gravitas Movies (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 Groovy TV (360p),http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 Hala London TV Movies (720p),https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist.m3u8
+HBO 1,https://live.tv247us.com/tv247/hbo.m3u8
 Hollywood,http://stream01.vnet.am/ParamountChannel/mono.m3u8
 Horrify (1080p),https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 iFilm 2,https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
