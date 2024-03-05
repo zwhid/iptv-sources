@@ -1988,6 +1988,8 @@ Test,#genre#
 [VGA]辽宁卫视,https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8
 [HD]邢台综合频道,https://epg.pw/stream/2458746ec43606d168e6e5a6e8902d3dfce08a87a9ea842e12e8d060af9c4054.m3u8
 [BD]重庆卫视[ipv6],https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8
+[BD]陕西二套[ipv6],https://epg.pw/stream/9a48327a328bf09def0788dad3314ddaf272f2e80a6914928c05b5191d1aff51.m3u8
+[HD]陕西四套[ipv6],https://epg.pw/stream/fa6efa87bbba360739569897295e1af744919e841c8ce806821a46ddd59dcd2a.m3u8
 [SD]陕西卫视,https://epg.pw/stream/a7b458a7ff6ccdd60304819323337e2835d8ea50887d423659e0eb0ec0118a65.m3u8
 [HD]云南康旅,https://epg.pw/stream/6b179f8058c63a37624e915473dd2db178df841b3e4ca66d92292f4a45664313.m3u8
 [BD]青海卫视,https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv
@@ -2044,6 +2046,7 @@ Test,#genre#
 [BD]石家庄生活,https://epg.pw/stream/cffc2aeb9da2add783bece701928bba09e0aa6afa064920d83b61d00fe965843.m3u8
 [BD]石家庄都市,https://epg.pw/stream/05aa42fbc9d722e77cf7250a2f50f9ec5e485e92fef15182116acfeb636af4f1.m3u8
 [BD]聚鲨环球精选,https://epg.pw/stream/d73d37a1ae485a85b33dcee0f4161aba6fa586b18b416b99696cbc1f238241a6.ctv
+[HD]西安商务资迅[ipv6],https://epg.pw/stream/5bd73242ddcd5bb508d008be0dde1c0cf00aa13e938984b303a049bea8a54c88.m3u8
 [HD]象山新闻综合,https://epg.pw/stream/19c5142ea270b459d4f7b4bd6ee40d94f774a61bfc3ee98a4a41f31e4a2956f6.m3u8
 [HD]运城科技教育,https://epg.pw/stream/94c6196cfda87ab8028c092d0a70eb2d80665f52dda1f70a66f4fc691db6c391.m3u8
 [BD]云南卫视,https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.ctv
@@ -2056,7 +2059,7 @@ Test,#genre#
 [BD]rkb news 24,https://epg.pw/stream/5c0a5e9b24538982f2adc32190019a57ce3b22128142d163af46657413602453.m3u8
 [BD]cctv8k超高清[ipv6],https://epg.pw/stream/bef97c4937f9095e0d3e3b391dc68f04b885b1015285e10e59ea08b591630c86.m3u8
 [HD]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
-[BD]上虞新闻综合,https://epg.pw/stream/c263e1828b4fb93d5bff50bf91136b93920a674c1bd19ccf1e4922baecfc3acc.m3u8
+[BD]上海新闻综合[ipv6],https://epg.pw/stream/73c809e730dd4f74066a22b8118d5c1d41758ae07e93f234085860a972e4d471.m3u8
 [SD]丘北新闻综合,https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8
 [VGA]亳州新闻频道,https://epg.pw/stream/cf7447d98fc73c8791cfc7032f6c35ba0dd41c3fcce500284f242c23fe55eb19.m3u8
 [BD]北京新闻,https://epg.pw/stream/df5f291b3e91d85d43f12c1253c789da96a06b0263fd5ccd662fd90514379fda.ctv
@@ -2115,6 +2118,7 @@ Test,#genre#
 [VGA]武汉文体 (480p),https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8
 [BD]风云足球,https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8
 [BD]5+体育赛事,https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8
+[BD]高尔夫网球[ipv6],https://epg.pw/stream/b7bea242512cacd749fdc6300350d422f59ac8d08bc703b55169535d01668344.m3u8
 
 综艺,#genre#
 [BD]cctv3,https://epg.pw/stream/c7020b88aea35cfa13268ae17e657ef8e234ba0f8d3c87045520f9f12bb9355f.m3u8
@@ -15434,7 +15438,7 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
-IPV6•4K,#genre#
+•4K「IPV6」,#genre#
 8K测试「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 爱上4K 「IPV6」,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 4K 修复「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
@@ -15442,7 +15446,7 @@ IPV6•4K,#genre#
 SiTV欢笑剧场4K 「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 华数4K「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 
-IPV6•央视,#genre#
+•央视「IPV6」,#genre#
 CCTV3 4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV5 4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV16 4K「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
@@ -15486,7 +15490,7 @@ CGTN Русский「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/c
 CGTN Español「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN العربية「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-IPV6•卫视,#genre#
+•卫视「IPV6」,#genre#
 湖南卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 浙江卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 江苏卫视「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
@@ -15515,7 +15519,7 @@ IPV6•卫视,#genre#
 甘肃卫视「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000017827/index.m3u8
 青海卫视「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000002000013359/index.m3u8
 
-IPV6•数字,#genre#
+•数字「IPV6」,#genre#
 凤凰香港「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰中文「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -15612,7 +15616,7 @@ iHOT爱幼教「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/60
 iHOT爱娱乐「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 iHOT爱院线「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
-IPV6•地区,#genre#
+•地区「IPV6」,#genre#
 「江苏」南京信息「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
 「江苏」南京娱乐「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 「江苏」南京新闻综合「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
@@ -15703,7 +15707,7 @@ IPV6•地区,#genre#
 「陕西」FGTV 1「IPV6」,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 「陕西」佛坪电视台「IPV6」,http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 
-IPV6•其他,#genre#
+•其他「IPV6」,#genre#
 享受文学声音「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231174/1.m3u8
 减脂塑形增肌「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 请看看左上角「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228465/index.m3u8
@@ -15736,7 +15740,7 @@ IPV6•其他,#genre#
 「购物」央广购物「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226068/index.m3u8
 「购物」优购物「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226123/index.m3u8
 
-IPV6•咪咕,#genre#
+•咪咕「IPV6」,#genre#
 咪咕直播4K Ⅰ「IPV6」,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕直播4K Ⅱ「IPV6」,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
 咪咕直播 1*「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -15782,7 +15786,7 @@ IPV6•咪咕,#genre#
 咪咕直播 37「IPV6」,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 咪咕直播 38「IPV6」,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 
-咪咕「移动」,#genre#
+•咪咕「移动」,#genre#
 咪咕直播4K Ⅰ,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播4K Ⅱ,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 咪咕直播 1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
@@ -15819,7 +15823,7 @@ IPV6•咪咕,#genre#
 咪咕直播 32,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
 咪咕直播 33,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 
-YouTube「P」,#genre#
+•YouTube「P」,#genre#
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
@@ -15866,7 +15870,7 @@ KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
-港澳台「P」,#genre#
+•港澳台「P」,#genre#
 香港国际财经,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY 资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
@@ -16042,7 +16046,7 @@ CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAu
 Deluxe Lounge HD「自然」,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
 Red Bull TV「体育」,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-IPV4•央视,#genre#
+•央视「IPV4」,#genre#
 CCTV-4k,https://yang-1989.eu.org/live/cctv4k
 CCTV-8k,https://yang-1989.eu.org/live/cctv8k
 CCTV1,https://yang-1989.eu.org/live/cctv1
@@ -16084,7 +16088,7 @@ CGTN法语,https://yang-1989.eu.org/live/cgtnf
 CGTN阿语,https://yang-1989.eu.org/live/cgtna
 CGTN俄语,https://yang-1989.eu.org/live/cgtnr
 
-IPV4•卫视,#genre#
+•卫视「IPV4」,#genre#
 北京卫视,https://yang-1989.eu.org/live/bjws
 东方卫视,https://yang-1989.eu.org/live/dfws
 天津卫视,https://yang-1989.eu.org/live/tjws
