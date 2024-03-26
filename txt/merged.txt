@@ -1981,7 +1981,7 @@ Kids,#genre#
 [HD]mm family guy hd,https://epg.pw/stream/a0d1f4624399164b2e5ed63ba3e5b1f9e45304861813d21f2ebe6d04e788ae1f.m3u8
 [BD]momo亲子台1,https://epg.pw/stream/be8077bcc4a308e784a9f9de2136c07c138c3fe1a449c159c22bfba1a7c28dc6.m3u8
 [HD]nick music,https://epg.pw/stream/ab348ff58bb9b72b55a63c31129fc7f39010ab1f1c662eba7da6c832c50d4164.m3u8
-[HD]nickelodeon junior,https://epg.pw/stream/785ae0acc06faed10a1753ec15162376f83879568a1030f2ea189a00b8330ed7.ctv
+[VGA]nickelodeon,https://epg.pw/stream/1388b82fc45bec9bbef3f80e3f9b1559a2c91aeeb664c0f1d74ecc66ba42a876.ctv
 [BD]nytv,https://epg.pw/stream/eb9c775b30ec8d39300b43c0aefd5cb2d926075102fa0992a1d130f140ac6477.m3u8
 [HD]on kids,https://epg.pw/stream/ac4c4452f11c774abef181557bc9ec946380359fb89cae74479812fba206c259.m3u8
 [HD]pakapaka,https://epg.pw/stream/d38c931d298da4ab0e4f38fe97491030ea717514a9097e551d836834d6c0f9e2.m3u8
@@ -14392,6 +14392,7 @@ Angel TV Chinese (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/n
 EWTN Asia-Pacific (720p) [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 Undefined,#genre#
+Ando TV (576p),http://119.1.122.186:4022/rtp/238.255.2.189:5999
 Ankang TV-1 News,http://124.47.34.186/PLTV/88888888/224/3221225855/index.m3u8
 Beijing Traffic Radio TV,http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 Beijing Youth Radio,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
@@ -15460,6 +15461,7 @@ Sichuan Kangba Tibetan TV,http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?ke
 山西影视,http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8
 山西法治,http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8
 山西文体,http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8
+Ando TV (576p),http://119.1.122.186:4022/rtp/238.255.2.189:5999
 Undefined,#genre#
 douyu8,http://epg.112114.xyz/douyu/4332
 douyu9,http://epg.112114.xyz/douyu/6140589
