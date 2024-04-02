@@ -2722,7 +2722,7 @@ Test,#genre#
 
 儿童,#genre#
 [BD]cctv14[ipv6],https://epg.pw/stream/c375661a94c310dd112505c98740c9917785676f84443adf5246edaa1d5de485.m3u8
-[SD]优漫卡通,https://epg.pw/stream/9a50e666912cb82bd584eb50bb030b7f654275ed05a586ef3c63ac39789df94b.m3u8
+[SD]优漫卡通[ipv6],https://epg.pw/stream/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.m3u8
 [BD]内蒙古少儿频道,https://epg.pw/stream/fd7f26799bc50c13550838d171c838132e948eaada65dc928f0a741cc3569cb3.m3u8
 [BD]动漫秀场,https://epg.pw/stream/063f86620cbc5947dba09359a7e98b196ab92dfdcbb2c725b247793d4e48c506.ctv
 [BD]北京淘baby,https://epg.pw/stream/546678813022c60ce2cda8d4db354fb34f59fa03eff6d2d8285e52f52049ea82.ctv
@@ -11065,8 +11065,6 @@ DNews (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQC
 Dotto TV (720p),https://dotto.edvr.ro/live/index.m3u8
 Dunya News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCnMBV5Iw4WqKILKue1nP6Hg.m3u8
 DW Arabic (1080p),https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-DW Deutsch (1080p),https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-DW Deutsch+ (1080p),https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW Español (1080p),https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 DZRH News TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
