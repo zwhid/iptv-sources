@@ -1,4 +1,4 @@
-# List for **fanmingming/live ipv6**
+# List for **fanmingming/live ipv6**(Rollback)
 
 > M3U: [fmml_ipv6.m3u](/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](/txt/fmml_ipv6.txt)
 
@@ -68,4 +68,4 @@
 | 62 | 新疆卫视 | pi.0472.org | <https://pi.0472.org/live/xjws.m3u8?token=240411> |
 | 63 | 海南卫视 | pi.0472.org | <https://pi.0472.org/live/hinws.m3u8?token=240411> |
 
-Updated at **Sat Apr 13 2024 00:44:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 13 2024 02:11:19 GMT+0000 (Coordinated Universal Time)**
