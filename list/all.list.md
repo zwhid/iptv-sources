@@ -2242,4 +2242,4 @@
 | 2236 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2237 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 
-Updated at **Thu Apr 25 2024 06:16:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 25 2024 08:16:34 GMT+0000 (Coordinated Universal Time)**
