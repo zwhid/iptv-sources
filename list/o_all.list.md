@@ -2174,7 +2174,7 @@
 | 2168 | CTV Internacional (1080p) | mediacp.us:8081 | <https://mediacp.us:8081/ctvhn/index.m3u8> |
 | 2169 | CTVN AKD Plus (1080p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8> |
 | 2170 | Cuatro (1080p) | spa-ha-p002.cdn.masmediatv.es | <https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8> |
-| 2171 | Cubavisión Internacional (504p) | tvup-live.secure2.footprint.net | <https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd> |
+| 2171 | Cubavisión Internacional (720p) | cdn.teveo.cu | <https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8> |
 | 2172 | like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Cugat TV (1080p) | liveingesta318.cdnmedia.tv | <https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8> |
 | 2173 | Cúla4 (1080p) | d3eq0jseza7fm5.cloudfront.net | <https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8> |
 | 2174 | Cult Classic Movie Theater (1080p) | app.viloud.tv | <https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8> |
@@ -10209,4 +10209,4 @@
 | 10203 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10204 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Fri May 03 2024 22:11:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat May 04 2024 00:55:10 GMT+0000 (Coordinated Universal Time)**
