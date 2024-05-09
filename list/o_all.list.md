@@ -4483,8 +4483,8 @@
 | 4477 | MEC TV (576p) [Not 24/7] | webstreaming.viewmedia.tv | <https://webstreaming.viewmedia.tv/web_004/Stream/playlist.m3u8> |
 | 4478 | Med Müzik (720p) | IPv4 直链 | <http://137.74.205.201/medmuzik/MedStream/playlist.m3u8> |
 | 4479 | Medeniyyet | edge02.odtv.az | <https://edge02.odtv.az/o1/medeniyyet/playlist.m3u8> |
-| 4480 | Medi 1 TV Afrique (1080p) [Not 24/7] | streaming2.medi1tv.com | <http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8> |
-| 4481 | Medi 1 TV Arabic (1080p) [Not 24/7] | 5f72f3a9b06b7.streamlock.net | <http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8> |
+| 4480 | Medi 1 TV Afrique (1080p) [Not 24/7] | streaming1.medi1tv.com | <https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8> |
+| 4481 | Medi 1 TV Arabic (1080p) [Not 24/7] | streaming1.medi1tv.com | <https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8> |
 | 4482 | Medi 1 TV Maghreb (1080p) [Not 24/7] | streaming1.medi1tv.com | <https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8> |
 | 4483 | Media One (1080p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8> |
 | 4484 | Media Sunnah Aceh (720p) [Not 24/7] | ythls.armelin.one | <https://ythls.armelin.one/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8> |
@@ -10211,4 +10211,4 @@
 | 10205 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10206 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Wed May 08 2024 22:11:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu May 09 2024 00:55:59 GMT+0000 (Coordinated Universal Time)**

@@ -7161,8 +7161,8 @@ Mario Pinto TV (720p) [Not 24/7],https://eu1.servers10.com:8081/8028/index.m3u8
 Más Noticias Televisión (720p),https://www.amixtv.com:8081/mntvh/index.m3u8
 Mathrubhumi News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
 MBS News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
-Medi 1 TV Afrique (1080p) [Not 24/7],http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-Medi 1 TV Arabic (1080p) [Not 24/7],http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+Medi 1 TV Afrique (1080p) [Not 24/7],https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+Medi 1 TV Arabic (1080p) [Not 24/7],https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 Medi 1 TV Maghreb (1080p) [Not 24/7],https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 Media One (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
 Medya Haber (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8
