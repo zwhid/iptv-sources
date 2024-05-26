@@ -6841,7 +6841,7 @@
 | 6835 | Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7] | cdn3.wowza.com | <https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8> |
 | 6836 | Santel TV (720p) | tvlatina.live:1936 | <https://tvlatina.live:1936/8004/8004/playlist.m3u8> |
 | 6837 | Santiago TV (720p) | cdn.santiagotv.net:3228 | <http://cdn.santiagotv.net:3228/live/santiagotvlive.m3u8> |
-| 6838 | Sanyuka TV (360p) | cdn1.rea.cdn.moderntv.eu | <https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/tv_sanyuka/10-hls/live-media.m3u8> |
+| 6838 | Sanyuka TV (480p) | IPv4 直链 | <http://197.239.30.29/readymedia/stream/tv_sanyuka/20-hls/live-media.m3u8> |
 | 6839 | Sarapiqui TV (720p) [Not 24/7] | tiquiciatv.com:1935 | <http://tiquiciatv.com:1935/stv/web/playlist.m3u8> |
 | 6840 | Sardari TV (1080p) [Not 24/7] | IPv4 直链 | <http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8> |
 | 6841 | Sardegna Uno | Github Raw | <https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8> |
@@ -10212,4 +10212,4 @@
 | 10206 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10207 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Sat May 25 2024 22:12:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun May 26 2024 01:01:40 GMT+0000 (Coordinated Universal Time)**
