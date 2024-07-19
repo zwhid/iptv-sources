@@ -7238,7 +7238,7 @@ FOX 2 Detroit MI (WJBK) (720p),https://lnc-wjbk.tubi.video/index.m3u8
 FOX 5 Atlanta GA (WAGA-TV) (720p),https://lnc-waga.tubi.video/index.m3u8
 FOX 9 ST Paul Minneapolis MN (KMSP) (720p),https://lnc-kmsp.tubi.video/index.m3u8
 FOX 26 Houston TX (KRIV) (720p),https://lnc-kriv.tubi.video/index.m3u8
-Fox News Channel (144p),http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+FOX News Channel (720p),http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 FOX News Now (720p),https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 France 24 Arabic (1080p),https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 France 24 English (1080p),http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
