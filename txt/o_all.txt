@@ -2531,7 +2531,6 @@ TV Quinta Region (1080p),https://mediacpstreamchile.com:1936/8002/8002/playlist.
 TV QUISQUEYA (720p),https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 TV Reduta (486p),https://5ca49f2417d90.streamlock.net/live/reduta/playlist.m3u8
 TV Regionalna Lubin (576p) [Not 24/7],https://tvreg.klemit.net/regionalna/stream/index.m3u8
-TV Republika (1080p),http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/105463
 TV Rodopi (720p) [Not 24/7],https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
 TV Romana (720p),http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 TV Ružinov (1080p) [Not 24/7],http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8

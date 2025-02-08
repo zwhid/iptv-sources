@@ -2131,7 +2131,7 @@ Test,#genre#
 [BD]广州综合,https://stream1.freetv.fun/6d9c91c2ed4010a55e36e4649b2c67999244f359a2d995fb433e5eacd8361079.ctv
 [SD]广东民生,https://stream1.freetv.fun/68f2612150667cf3ff5a8ea7636ba84d93f77dd3f23731590a4ec5131b961030.m3u8
 [BD]广东珠江,https://stream1.freetv.fun/703a1181e6dd8bf05f3f98dae297ee163fd5323f83973720a9763eb1b6e59b88.ctv
-[BD]广东珠江,https://stream1.freetv.fun/9b197f10a84e5a16697ed4669f062e2ad9f69c901d933a50b1a6a9684ef8dfa6.m3u8
+[BD]广东珠江,https://stream1.freetv.fun/bffa7e99ed8a4cb6782caf409e046c4b7191cd86a11e24cd8785e2b42e77a8b2.m3u8
 [SD]广东移动,https://stream1.freetv.fun/23d6b5b9a57668589dd649f7ba7a4a47221287eafd55b0f74ecbfc3573c802be.m3u8
 [SD]广东经济标清,https://stream1.freetv.fun/b86f408e9b56544cd4a957701c27c8ab94e5826210a722e0057a9757af209e8c.ctv
 [BD]广东经济科教,https://stream1.freetv.fun/195a90c7fd53ffd35bcd310057c96c96f0ee8b0cdcae125e5bfab78f1d28af6b.ctv
@@ -2446,7 +2446,7 @@ Test,#genre#
 [BD]山东体育,https://stream1.freetv.fun/7662bf20ec19b22bc26a118f1918354e92b986fc3ad7e2a76884fac7791e0021.m3u8
 [HD]广州竞赛,https://stream1.freetv.fun/c3217266cc75ed76bb805aee90e67ad0b53075de724f41e687f3c0c8d4bcd4a1.m3u8
 [BD]广东体育,https://stream1.freetv.fun/e05d674500d8dcf73754cb11d4dcd8ef9e88f287888a1b71fd0766e90963db66.ctv
-[BD]广东体育,https://stream1.freetv.fun/8022d2ff0910ab31c8d38a5eb60e180390aa69b5388307df86e49924de8b09f5.ctv
+[BD]广东体育,https://stream1.freetv.fun/71ea8ca3962a422d24d7b6fc81370ebe3e2d54b341e17a3f52cb711a671265e3.m3u8
 [SD]枣庄新闻,https://stream1.freetv.fun/7996424bc3c1787a3b73efd84dac13f864e07b3bff8353ccfac13dc3f465bb25.m3u8
 [VGA]武汉文体,https://stream1.freetv.fun/f12f0f6fe516fc0e2e605252ced4d3e23fc6ce64aaaf5dd0141711b490ef109e.m3u8
 [BD]江苏体育,https://stream1.freetv.fun/e9b0607a6ad54ba676d9bb046555ef959e983d1f66e584dd05e2c58424945b7e.ctv
@@ -5444,7 +5444,6 @@ TV Quinta Region (1080p),https://mediacpstreamchile.com:1936/8002/8002/playlist.
 TV QUISQUEYA (720p),https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 TV Reduta (486p),https://5ca49f2417d90.streamlock.net/live/reduta/playlist.m3u8
 TV Regionalna Lubin (576p) [Not 24/7],https://tvreg.klemit.net/regionalna/stream/index.m3u8
-TV Republika (1080p),http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/105463
 TV Rodopi (720p) [Not 24/7],https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8
 TV Romana (720p),http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
 TV Ružinov (1080p) [Not 24/7],http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
@@ -13704,6 +13703,8 @@ CCTV 高尔夫网球,http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GO
 CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 CETV-4,http://49.113.179.174:4022/udp/238.125.3.92:5140
+CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
 City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
 CNC中文 (720p) [Not 24/7],http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
@@ -14169,8 +14170,6 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 龙口新闻综合 (576p),http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
 龙口生活 (576p),http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
 龙岩综合 (540p),http://stream.lytv.net.cn/2/sd/live.m3u8
-CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 Undefined,#genre#
 douyu8,http://epg.112114.xyz/douyu/4332
 douyu9,http://epg.112114.xyz/douyu/6140589
