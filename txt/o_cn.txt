@@ -1,8 +1,5 @@
 Religious,#genre#
 ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-Angel TV Chinese (720p),https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
-EWTN Africa Asia (720p),https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-EWTN Asia-Pacific (720p) [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 Undefined,#genre#
 Ando TV (576p),http://119.1.122.186:4022/rtp/238.255.2.189:5999
@@ -460,32 +457,6 @@ Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authi
 优漫卡通 (576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 金鹰卡通 (湖南) (540p) [Not 24/7],http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
 
-News,#genre#
-BBC News Asia Pacific (720p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-CCTV13 (1080p),http://bl.dchwtq.asia:10000/rtp/239.254.96.161:9040
-CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-Lanzhou Comprehensive News Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
-NHK Chinese Vision (720p),https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-Weihai Comprehensive News Channel,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
-滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
-舟山新闻综合 (240p),http://live.wifizs.cn/xwzh/sd/live.m3u8
-萍乡新闻综合 (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
-酒泉新闻综合 (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
-鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
-
-Business,#genre#
-Bloomberg TV Asia (720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
-Bloomberg TV Asia Live Event (720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-CCTV2 (576p),http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
-CNBC Asia HD (720p),https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
-World Economy Channel,http://49.113.179.174:4022/udp/238.125.2.205:5140
-徐州经济生活 (1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-浙江经济生活 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-点掌财经 (712p),http://cclive.aniu.tv/live/anzb.m3u8
-西安商务资讯 (180p) [Not 24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
-
 Kids,#genre#
 BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 CCTV14 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.107:10280
@@ -519,6 +490,15 @@ Yanbian Cinese Comprehensive Channel,https://live.ybtvyun.com/video/s10016-6d4fe
 贵州卫视 (360p),http://125.210.152.18:9090/live/GZWSHD_H265.m3u8
 辽宁卫视 (576p),http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv
 黑龙江 (576p),http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
+
+Business,#genre#
+CCTV2 (576p),http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
+CNBC Asia HD (720p),https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
+World Economy Channel,http://49.113.179.174:4022/udp/238.125.2.205:5140
+徐州经济生活 (1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+浙江经济生活 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+点掌财经 (712p),http://cclive.aniu.tv/live/anzb.m3u8
+西安商务资讯 (180p) [Not 24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
 
 Entertainment,#genre#
 CCTV3 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.122:10370
@@ -569,6 +549,20 @@ CCTV12 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.106:10274
 CCTV 女性时尚,http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?p=GITV
 QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 Weihai Ocean Channel,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
+
+News,#genre#
+CCTV13 (1080p),http://bl.dchwtq.asia:10000/rtp/239.254.96.161:9040
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+Lanzhou Comprehensive News Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
+NHK Chinese Vision (720p),https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+Weihai Comprehensive News Channel,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
+舟山新闻综合 (240p),http://live.wifizs.cn/xwzh/sd/live.m3u8
+萍乡新闻综合 (576p) [Not 24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+酒泉新闻综合 (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
+鹤壁新闻综合 (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 
 Education;Outdoor,#genre#
 CCTV17 (1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.152:10548
