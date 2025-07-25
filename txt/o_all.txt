@@ -4996,7 +4996,6 @@ Telesol TV (720p),https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8
 Telestense (720p),https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
 Telesud (720p),https://webtv.pugliaservice.it:1936/telesud-webtv/telesud-webtv/playlist.m3u8
 Televallo (576p),https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
-like Gecko) Chrome/92.0.4515.131 Safari/537.36",Televiaducto Canal 14 (576p) [Not 24/7],https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8
 Television Espoir 47 (720p),https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 Télévision La Brise (Ch. 28 Les Cayes) (720p),http://lakay.online/public/telelabrise/index.m3u8
 Televisión Metrópolis 19.1 (1080p) [Not 24/7],https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
