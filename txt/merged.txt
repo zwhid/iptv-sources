@@ -3021,7 +3021,6 @@ NHK World News (French Subs) (720p),https://cdn.nhkworld.jp/www11/nhkworld-tv/bm
 NHL,https://nhl-firetv.amagi.tv/playlist.m3u8
 Nick Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c0f9a61-5699-4476-a730-228053d9f6b6
 Nickelodeon Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
-Nickelodeon Sonic Hindi (1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 Ninja Warrior (1080p),https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
 Nitro TV,https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
 Nolan Nanton Productions (720p) [Not 24/7],https://cdn.mycloudstream.io/hls/live/broadcast/wbxpvv7l/index.m3u8
@@ -3519,7 +3518,6 @@ San Pedro TV (1080p) [Not 24/7],https://iptv.ixfo.com.ar:30443/live/sanpedrotv/p
 San Vito Televisión (720p),https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 Sandzak TV (576p),https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 Sangaji TV (720p) [Not 24/7],https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-Sansad TV (1080p) [Not 24/7],https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
 Santa María Televisión (720p) [Not 24/7],https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 Santvani Channel (576p),https://cdn-2.pishow.tv/live/475/master.m3u8
 Sarbedaran,https://ncdn.telewebion.com/sarbedaran/live/playlist.m3u8
@@ -8230,7 +8228,7 @@ News State Maharashtra Goa (576p),http://202.164.50.194:8000/play/a020/index.m3u
 News State MP & CHG (576p),http://202.164.50.194:8000/play/a037/index.m3u8
 News State UP & UK (576p),http://202.164.50.194:8000/play/a038/index.m3u8
 News Tamil 24x7 (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
-News X (576p),https://newsxott.in/hls/newsx.m3u8
+News X (1080p),https://newsxott.in/hls/newsx.m3u8
 Newsmax 2 (720p),https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Newsmax TV (720p),https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 NewsNet (720p) [Not 24/7],https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
@@ -9440,6 +9438,7 @@ Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/sti
 Nickelodeon (576p),http://87.246.60.6:11004/?token=fas-tv.com
 Nickelodeon en Español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 Nickelodeon Latin America (720p),http://179.51.136.19:8000/play/a0q4/index.m3u8
+Nickelodeon Sonic Hindi (1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 Nicktoons (720p),http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 Ninja Kidz TV,https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
 NRK Super (1080i),https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
@@ -9530,7 +9529,6 @@ Aathavan TV (720p) [Not 24/7],http://45.77.66.224:1935/athavantv/live/playlist.m
 AB1,https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
 AB3 HD,https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 ABC TV Plus (720p),https://c.mjh.nz/abc-tv-plus.m3u8
-Acasa TV (576p),http://hls.protv.md/acasatv/acasatv.m3u8
 ACS Network (480p) [Not 24/7],https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 Adithya TV (576p),http://87.255.35.150:18840
 AfroLandTV (1080p),https://alt-al.otteravision.com/alt/al/al.m3u8
@@ -9930,6 +9928,7 @@ Show Max,https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/b
 Siri Kannada (576p),http://202.164.50.194:8000/play/a02q/index.m3u8
 SolTV (720p),https://stream.solmediaeg.com/soltv/soltv.m3u8
 Sony Entertainment Television (1080p),http://87.255.35.150:18546
+Sony Marathi (576p),http://87.255.35.150:18409
 Sony Pal (576p),http://87.255.35.150:18887
 Sooriyan TV (1080p),https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 ST Europe Channel (720p),https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
@@ -10813,6 +10812,7 @@ Alkass Two (720p),https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/
 AntenaSport (1280p) [Not 24/7],https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
 Arena Sport 1 (720p),http://91.132.74.5:8000/play/a00k
 ATG (432p),https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+ATG Live (720p),https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 Awapa Sports TV (1080p) [Not 24/7],https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 Bahrain Sports 1 (720p) [Not 24/7],https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2 (720p) [Not 24/7],https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
@@ -11048,6 +11048,7 @@ TVS Sports (720p) [Not 24/7],https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3
 TVS Sports Bureau (720p),https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 TVS Turbo (360p),https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 TVS Women Sports (720p),https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+TyC Sports (1080p),https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 Unbeaten (1080p),https://unbeaten-tcl.amagi.tv/playlist.m3u8
 V Sport Vinter (720p),http://62.210.211.188:2095/play/a00q
 Varzesh TV,https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
@@ -11473,6 +11474,7 @@ Privesc.Eu TV (2160p),https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 Public Senat 24/24,https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8
 Rocky Hill Government Access Channel 16 (480p),https://securestream9.champds.com/LIVE/RockyHillCTLIVE/RockyHillCTLIVE.m3u8
 Sangsad TV (1080p),https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/9ee3b4f9-fd0a-47c5-a135-2575c5691613/9ee3b4f9-fd0a-47c5-a135-2575c5691613_3_playlist.m3u8
+Sansad TV 2 (1080p) [Not 24/7],https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
 Santa Maria Community Television Government Channel (720p),https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7],https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 Senato TV (1080p),https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
