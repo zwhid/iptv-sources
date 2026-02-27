@@ -8,17 +8,12 @@ Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index
 BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
 BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
-CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
 CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 CETV-4,http://49.113.179.174:4022/udp/238.125.3.92:5140
 CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-CGTN Arabic,https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-CGTN French,https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
-CGTN Russian,https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
-CGTN Spanish,https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
 Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
