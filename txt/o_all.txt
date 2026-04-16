@@ -5824,6 +5824,7 @@ BBC Persian (720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pip
 BCI 24 News (720p),https://eu1.vectromdigital.com:1936/bci24news/bci24news/playlist.m3u8
 BEK TV News (720p),https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
 Bénin Web TV (720p),https://stream.beninwebtv.bj/2/live/stream.m3u8
+BeritaSatu (1080p),https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8
 BFM2 (1080p),https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 Bharat Samachar (480p),https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 Big TV 24x7 (576i),https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
@@ -6501,6 +6502,7 @@ Hmong Star TV (720p) [Not 24/7],https://livefta.malimarcdn.com/ftaedge00/hmongst
 Hmong TV Network (720p),https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 Holvoet TV (Copiapó) (720p) [Not 24/7],https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 Hyder TV (720p),https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+Imai TV (1080p),https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 IRIB4,https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 Jin TV,https://live.jintv.org/medialive/jintv.m3u8
@@ -7885,6 +7887,7 @@ TVCARiB Kids & Teens (720p) [Not 24/7],https://cdn.mycloudstream.io/hls/live/bro
 TVOKids,https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 TVS Hi Tops (720p),https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
 TVS Pinball Network (480p),https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+Watch it KID! (480i),https://stream-us-east-1.getpublica.com/cl/260415d7g24jv4hnf3ahfafgog/318x234_424101_3_f.m3u8?i=513_2256
 YAAAS! (720p),https://jmp2.uk/stvp-GB340000289
 ZB Cartoon (1080p),https://server.zillarbarta.com/zbcatun/video.m3u8
 Zoo Moo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -9041,7 +9044,6 @@ Al Arabiya Business (1080p),https://live.alarabiya.net/alarabiapublish/aswaaq.sm
 Aleph Business (1280p),https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 Ameritrade (1080p) [Not 24/7],https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 ausbiz TV (720p) [Not 24/7],https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-BeritaSatu (1080p),https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8
 Bilyonaryo News Channel (1080p),https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
 Bloomberg HT (720p),https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 Bloomberg TV + (2160p),https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
@@ -9102,7 +9104,6 @@ Movies,#genre#
 80s Rewind,https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 90s Throwback,https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 312 Кино (406p),http://176.126.166.43:1935/live/312kino/playlist.m3u8
-&pictures HD (1080p),http://103.229.254.25:7001/play/a033/index.m3u8
 &TV (576p),http://103.229.254.25:7001/play/a09v/index.m3u8
 &TV HD (1080p),http://103.161.153.165:8000/play/a05c/index.m3u8
 &TV International (1080p),https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
