@@ -6886,6 +6886,7 @@ Hi-YAH! (1080p),https://linear-59.frequency.stream/dist/plex/59/hls/master/playl
 Hiru TV (360p) [Not 24/7],https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 Hispania TV,https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8
 Historia (1080p),https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+HITS (720p),https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
 HOLA! Play (1080p),https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 Home Drama Channel (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 HTV Live (1080p) [Not 24/7],https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
