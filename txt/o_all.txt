@@ -4652,6 +4652,7 @@ Lào Cai TV (1080p),https://live.baolaocai.vn/channel2/stream.m3u8
 LaOtra (720p),https://laotra-1-23-secure2.akamaized.net/master.m3u8
 Larivision TV [Not 24/7],https://live.larimartv.net/livelan/stream.m3u8
 Las Estrellas (1080p),https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+Las Vegas Tonight with Dale Davidson (1080p),https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
 Latest TV (480p),https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
 Latina (720p),https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 Latina Network TV (576i),https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8
@@ -8254,6 +8255,7 @@ Memorias TV Tropical (480p),https://video.xtrematv.com:3361/live/memoriastropica
 Metaleitor TV,https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
 Metropoli Medios TV (720p),https://eu1.servers10.com:8081/8214/index.m3u8
 Mezzo (1080p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
+mfm (1080p),https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 Mh 1 Music (576p),https://mumt04.tangotv.in/MHONE/index.m3u8
 Mi Gente TV (720p),https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
 Miel TV (720p) [Not 24/7],https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
