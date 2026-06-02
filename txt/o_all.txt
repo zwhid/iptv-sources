@@ -150,6 +150,7 @@ ACTV,https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc
 Addis TV (720p),https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 Adesso TV (720p),https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 Aeolos TV (1080p),https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+AFBTV Kupang (1080p) [Not 24/7],https://afbtv.siar.us/live/afbtv.m3u8
 Afghan Nobel TV (720p),https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
 Aflak,https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
 Africable TV (360p),http://69.64.57.208/africable/playlist.m3u8
@@ -300,7 +301,6 @@ Bahar TV (720p) [Not 24/7],https://59d39900ebfb8.streamlock.net/bahartv/bahartv/
 Bahrain International (720p) [Not 24/7],https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 Bahrain TV (720p) [Not 24/7],https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 Bajai TV (720p),https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-Balikpapan TV (720p),https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 Bălţi TV (1080p),http://77.89.199.174:8000/play/1024/index.m3u8
 Banat TV (720p),https://www.btv.ro/hls/banat-tv.m3u8
 Bandung TV (360p),http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
@@ -310,23 +310,23 @@ Barinas TV (720p) [Not 24/7],https://vcp13.myplaytv.com/barinastv/barinastv/play
 Batam TV (480p) [Not 24/7],http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 Bayon TV,https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 Bayres TV (720p),https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
-BBC Alba (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_mse_v0_hevc.mpd
-BBC One Channel Islands (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/iptv_mse_v0_hevc.mpd
-BBC One East (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/iptv_mse_v0_hevc.mpd
+BBC Alba (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
+BBC One Channel Islands (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/hevc_iptv_mse_v0.mpd
+BBC One East (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/hevc_iptv_mse_v0.mpd
 BBC One East Midlands (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
-BBC One East Yorkshire (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/iptv_mse_v0_hevc.mpd
-BBC One London (1080p),https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_mse_v0_hevc.mpd
+BBC One East Yorkshire (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/hevc_iptv_mse_v0.mpd
+BBC One London (1080p),https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/hevc_iptv_mse_v0.mpd
 BBC One North East (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
 BBC One North West (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd
 BBC One Northern Ireland HD (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
 BBC One Scotland (540p),https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8
-BBC One Scotland HD (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/iptv_mse_v0_hevc.mpd
-BBC One South (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/iptv_mse_v0_hevc.mpd
-BBC One South East (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/iptv_mse_v0_hevc.mpd
-BBC One South West (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/iptv_mse_v0_hevc.mpd
-BBC One Wales (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/iptv_mse_v0_hevc.mpd
-BBC One West (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/iptv_mse_v0_hevc.mpd
-BBC One West Midlands (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/iptv_mse_v0_hevc.mpd
+BBC One Scotland HD (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/hevc_iptv_mse_v0.mpd
+BBC One South (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/hevc_iptv_mse_v0.mpd
+BBC One South East (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/hevc_iptv_mse_v0.mpd
+BBC One South West (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/hevc_iptv_mse_v0.mpd
+BBC One Wales (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/hevc_iptv_mse_v0.mpd
+BBC One West (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/hevc_iptv_mse_v0.mpd
+BBC One West Midlands (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/hevc_iptv_mse_v0.mpd
 BBC One Yorks (720p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
 BBC One Yorkshire & Lincolnshire (1080p),http://92.114.85.72:8000/play/a0mp
 BBC Scotland (1080p),http://92.114.85.72:8000/play/a0mf
@@ -334,8 +334,8 @@ BBC Three HD (720p),https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f
 BBC Two (1080p),https://rdmedia.api.bbc.co.uk/ll-trial/mpd/bbc_two_england/manifest.mpd
 BBC Two HD (1080p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 BBC Two Northern Ireland (540p),https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
-BBC Two Northern Ireland HD (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd
-BBC Two Wales (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_mse_v0_hevc.mpd
+BBC Two Northern Ireland HD (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/hevc_iptv_mse_v0.mpd
+BBC Two Wales (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/hevc_iptv_mse_v0.mpd
 BBC UHD 1 (2160p)  [Not 24/7],https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
 BBC UHD 2 (2160p)  [Not 24/7],https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_02/iptv_uhd_v1.mpd
 BBC UHD 3 (2160p)  [Not 24/7],https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_03/iptv_uhd_v1.mpd
@@ -1682,6 +1682,7 @@ SIC (1080p),https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf0
 Silk Way,https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 Sima Vision TV (720p),https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 Simaye Azadi (1080p),https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+Simon (720p),https://hls.simon.ua/live-HD/live/playlist.m3u8
 Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 SIPSE TV 8.1 (1080p) [Not 24/7],https://webprod.sipse.com.mx:8080/show/merida.m3u8
 SIPSE TVCUN 8.1 (1080p) [Not 24/7],https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
@@ -2328,6 +2329,7 @@ AfroLandTV (1080p),https://stream.ads.ottera.tv/playlist.m3u8?content_livestream
 AfroLandTV WW (1080p),https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=15235
 Aftab,https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
 AFV with Alfonso Ribeiro (1080p),https://d1o5yzickeowpa.cloudfront.net/playlist.m3u8
+Al Iraqia Kurdish (720p),https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 Al Madina (720p),https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
 Al Qamar TV (1080p),https://streamer3.premio.link/alqamar/playlist.m3u8
 Al Riyadh Radio (1080p),https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
@@ -2420,30 +2422,30 @@ BBC Drama Italy (1080p),https://amg00793-amg00793c41-rakuten-it-5445.playouts.no
 BBC Impossible,https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
 like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Lifestyle",BBC Lifestyle Asia (720p),https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
-BBC RB 1 (1080p),https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
-BBC Red Button 2 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_mse_v0_hevc.mpd
-BBC Red Button 3 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_mse_v0_hevc.mpd
-BBC Red Button 4 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_mse_v0_hevc.mpd
-BBC Red Button 5 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_mse_v0_hevc.mpd
-BBC Red Button 6 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_mse_v0_hevc.mpd
-BBC Red Button 7 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_mse_v0_hevc.mpd
-BBC Red Button 8 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_mse_v0_hevc.mpd
-BBC Red Button 9 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_mse_v0_hevc.mpd
-BBC Red Button 10 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_mse_v0_hevc.mpd
-BBC Red Button 11 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_mse_v0_hevc.mpd
-BBC Red Button 12 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_mse_v0_hevc.mpd
-BBC Red Button 13 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_mse_v0_hevc.mpd
-BBC Red Button 14 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_mse_v0_hevc.mpd
-BBC Red Button 15 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_mse_v0_hevc.mpd
-BBC Red Button 16 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_mse_v0_hevc.mpd
-BBC Red Button 17 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_mse_v0_hevc.mpd
-BBC Red Button 18 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_mse_v0_hevc.mpd
-BBC Red Button 19 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_mse_v0_hevc.mpd
-BBC Red Button 20 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_mse_v0_hevc.mpd
-BBC Red Button 21 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_mse_v0_hevc.mpd
-BBC Red Button 22 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_mse_v0_hevc.mpd
-BBC Red Button 23 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_mse_v0_hevc.mpd
-BBC Red Button 24 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_mse_v0_hevc.mpd
+BBC RB 1 (1080p),https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/hevc_iptv_mse_v0.mpd
+BBC Red Button 2 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/hevc_iptv_mse_v0.mpd
+BBC Red Button 3 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/hevc_iptv_mse_v0.mpd
+BBC Red Button 4 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/hevc_iptv_mse_v0.mpd
+BBC Red Button 5 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/hevc_iptv_mse_v0.mpd
+BBC Red Button 6 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/hevc_iptv_mse_v0.mpd
+BBC Red Button 7 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/hevc_iptv_mse_v0.mpd
+BBC Red Button 8 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/hevc_iptv_mse_v0.mpd
+BBC Red Button 9 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/hevc_iptv_mse_v0.mpd
+BBC Red Button 10 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/hevc_iptv_mse_v0.mpd
+BBC Red Button 11 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/hevc_iptv_mse_v0.mpd
+BBC Red Button 12 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/hevc_iptv_mse_v0.mpd
+BBC Red Button 13 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/hevc_iptv_mse_v0.mpd
+BBC Red Button 14 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/hevc_iptv_mse_v0.mpd
+BBC Red Button 15 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/hevc_iptv_mse_v0.mpd
+BBC Red Button 16 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/hevc_iptv_mse_v0.mpd
+BBC Red Button 17 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/hevc_iptv_mse_v0.mpd
+BBC Red Button 18 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/hevc_iptv_mse_v0.mpd
+BBC Red Button 19 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/hevc_iptv_mse_v0.mpd
+BBC Red Button 20 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/hevc_iptv_mse_v0.mpd
+BBC Red Button 21 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/hevc_iptv_mse_v0.mpd
+BBC Red Button 22 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/hevc_iptv_mse_v0.mpd
+BBC Red Button 23 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/hevc_iptv_mse_v0.mpd
+BBC Red Button 24 (1080p),https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/hevc_iptv_mse_v0.mpd
 BBC Top Gear (1080p),https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
 BBC Top Gear Finland (1080p),https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
 BBC Top Gear France (1080p),https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
@@ -4409,6 +4411,7 @@ TVO San Vicente (720p),https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m
 tvOne (576i),http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 TVP1 (1080p),https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 TVP2 (1080p),https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
+TVP Dokument (1080p),https://tvpi.travny.workers.dev/tvpdokument.m3u
 TVP Info (1080p),https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
 TVP Polonia (1080p),https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
 TVPlus Suceava (576p),http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
@@ -4538,8 +4541,11 @@ VOX (720p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/vox/browser-da
 VoxAfrica (720p),http://69.64.57.208/voxafrica/playlist.m3u8
 Voyages+ (1080p),https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
 VSiN (720p),https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
+VTV1 HD (1080p),https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 VTV2 HD (1080p),https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 VTV3 HD (1080p),https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+VTV4 HD (1080p),https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+VTV5 HD (1080p),https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
 VTV5 Tây Nam Bộ HD (1080p),https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 VTV5 Tây Nguyên HD (1080p),https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
 VTV7 HD (1080p),https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
@@ -5178,6 +5184,7 @@ ANB News (720p),https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
 AnewZ,https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
 ANN News (1080p),https://legitpro.co.in/annnews/annnews/index.m3u8
 Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
+Antara TV,https://indihuy.streamized.net/atm/DASH/antara/manifest.mpd
 Anwar TV2 (720p),https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8
 APN (576p),https://mumt01.tangotv.in/APN/index.m3u8
 Apostrophe TV (1080p),https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
@@ -5199,7 +5206,7 @@ Baku TV (720p),https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/head
 Bansal News (720p),https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
 Baraka Television (720p) [Not 24/7],https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 BBC Arabic (720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-BBC News (1080p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+BBC News (1080p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 BBC News Europe (1080p),http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
 BBC News North America (1080p),http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 BBC Persian (720p),https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
@@ -5880,7 +5887,7 @@ Amani TV (1080p) [Not 24/7],https://goccn.cloud/hls/amanitv/index.m3u8
 AsiriTV (720p) [Not 24/7],https://video2.lhdserver.es/asiritv/live.m3u8
 ATR (720p),https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
 Aurora Arte (480p),https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-Bali TV (540p),https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
+Bali TV,https://indihuy.streamized.net/atm/DASH/balitv/manifest.mpd
 Bonaire.tv (1080p) [Not 24/7],https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 BX Arts (720p),https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 BX Culture (720p),https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
@@ -7221,9 +7228,9 @@ BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 Camp Spoopy (576p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 Canal J HD (720p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 Carousel (1080p),http://31.148.48.15/Karusel_HD/index.m3u8
-CBBC HD (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_mse_v0_hevc.mpd
+CBBC HD (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd
 CBeebies Asia (720p),https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
-CBeebies HD (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_mse_v0_hevc.mpd
+CBeebies HD (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
 CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
 Chinola TV (480p),https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 Chithiram (576p),https://cdn-6.pishow.tv/live/1243/master.m3u8
@@ -7389,7 +7396,6 @@ BRIDGE (576p),http://31.148.48.15/Bridge_TV/index.m3u8
 BRIDGE Deluxe (1080p),http://31.148.48.15/Bridge_TV_HD/index.m3u8
 BRIDGE Hits (576p),http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 BTA TV (720p),https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-BTB Music (1080p),https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
 Busuioc TV (540p) [Not 24/7],https://busuioctv.iforward.eu/hls/busuioc.m3u8
 Cadena Elite (720p) [Not 24/7],https://cloudvideo.servers10.com:8081/8004/index.m3u8
 Canal 3 KMK TV (720p),https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
@@ -9223,7 +9229,7 @@ Althingi (1080p) [Not 24/7],https://althingi-live.secure.footprint.net/althingi/
 Apple Valley Channel 180,https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8
 ARTV Canal Parlamento (720p) [Not 24/7],https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 ATXN1 (1080p),https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(616d6f49-eaec-6f7e-7186-2bbaf66c69c0)/index.m3u8
-BBC Parliament (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd
+BBC Parliament (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/hevc_iptv_mse_v0.mpd
 Bloomfield Access Government TV (480p),https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
 Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p),https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
 Brevard County Government Access TV (Brevard FL) (720p),https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
@@ -9424,6 +9430,7 @@ Geekdot (720p),https://stream.ichibantv.com:3764/hybrid/play.m3u8
 Gong (1080p),https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 Magic Kids (486p),https://magicstream.ddns.net/magicstream/stream.m3u8
 Naruto (1080p),https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+Placid (1080p) [Not 24/7],https://toy.vcdn.fyi/placid/index.m3u8
 Toonami Aftermath East (480p),http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 Yu-Gi-Oh! (1080p),https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 
@@ -9583,7 +9590,7 @@ Xtrema Cartoons,https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playl
 金鹰卡通 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 
 Culture;Documentary,#genre#
-BBC Four HD (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_mse_v0_hevc.mpd
+BBC Four HD (1080p),https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
 BBC Four UK HD,https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 Discovering China (1080p),https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 HRT 3 HD (720p),https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
