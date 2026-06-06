@@ -65,14 +65,11 @@ STV News and General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0
 Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 VOA美国之音 (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 Xinjiang TV 1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
-Xinjiang TV 2,http://49.113.179.174:4022/udp/238.125.3.175:5140
-Xinjiang TV 3,http://49.113.179.174:4022/udp/238.125.7.147:5140
-Xinjiang TV 5,http://49.113.179.174:4022/udp/238.125.7.149:5140
-Xinjiang TV 8,http://49.113.179.174:4022/udp/238.125.3.181:5140
-Xinjiang TV 9,http://49.113.179.174:4022/udp/238.125.7.153:5140
-Xinjiang TV 12,http://49.113.179.174:4022/udp/238.125.3.185:5140
+Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
+Xinjiang TV 3,http://110.153.180.106:55555/out_2/index.m3u8
+Xinjiang TV 5,http://106.124.91.222:9901/tsfile/live/21216_1.m3u8?authid=0&key=txiptv&playlive=0
+Xinjiang TV 8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 Xizang TV Tibetan (720p) [Not 24/7],http://php.jdshipin.com:8880/xztv.php?id=zy
-Yicai TV,http://49.113.179.174:4022/udp/238.125.0.165:5140
 Zhejiang Satellite TV,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 万州三峡移民 (576p) [Not 24/7],http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
