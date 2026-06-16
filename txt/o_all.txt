@@ -547,6 +547,7 @@ CBS en español,https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 CBS News (720p),https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8
 CBS News Philadelphia (720p),https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8
 CBS News Texas (720p),https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+CC Pluto TV,https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 CCTV-8K (1080p),http://192.151.150.154/live/cctv8k.m3u8
 CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 Celeb Reality (720p),https://d3453fcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NlbGViUmVhbGl0eUlOVExfSExT/playlist.m3u8
@@ -1565,7 +1566,6 @@ Nickelodeon Clásico (720p),https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 Nickelodeon Classics (720p),https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 Nickelodeon iCarly,https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 Nickelodeon Toons (720p),https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
-NickOnline (360p),https://x1co.com.br/hls/stream.m3u8
 like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Culture",Nigbati TV (1080p),https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8?ads.vf=DcM9DUpIwqO
 like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Niki Junior (1080p),https://iptv.prosto.tv/ch72/index.m3u8
 like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Niki Kids (1080p),https://iptv.prosto.tv/ch71/index.m3u8
@@ -1697,6 +1697,10 @@ Pluto TV Aliens,https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
 Pluto TV American True Crime,https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
 Pluto TV Amor y Mentiras,https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
 Pluto TV Animais,https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+Pluto TV Animales,https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+Pluto TV Animals,https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+Pluto TV Animation,https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
+Pluto TV Animaux,https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 Pluto TV ANIME GO!,https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
 Pluto TV Aventure,https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 Pluto TV Azione Cult,https://jmp2.uk/plu-6994800c470389f33df8e090.m3u8
@@ -1718,17 +1722,26 @@ Pluto TV Cine de autor,https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
 Pluto TV Cine Estelar,https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 Pluto TV Cine Inspiração,https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
 Pluto TV Cine Inspirador,https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+Pluto TV Cine Romántico,https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 Pluto TV Cine Terror,https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+Pluto TV Cinema Italiano,https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
 Pluto TV Cinema Orientale,https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
+Pluto TV Classic TV,https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
 Pluto TV Classic TV Variety,https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
+Pluto TV Cocina,https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 Pluto TV Comedias Románticas,https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+Pluto TV Comédie,https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
 Pluto TV Comédies Cultes,https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 Pluto TV Comedy,https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
 Pluto TV Comedy Movies,https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8
 Pluto TV Comedy Therapie,https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
 Pluto TV Competencias,https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
 Pluto TV Competition,https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
+Pluto TV Conspiracy,https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 Pluto TV Cozinha,https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+Pluto TV Crime,https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
+Pluto TV Cucina,https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+Pluto TV Cuisine,https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
 Pluto TV Curiosidade,https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8
 Pluto TV Danske klassikere,https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
 Pluto TV Darts,https://jmp2.uk/plu-67b481cc1a5ca760801c6c5e.m3u8
@@ -1737,6 +1750,7 @@ Pluto TV Deutsche Comedy,https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
 Pluto TV Diseño,https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 Pluto TV Dive Italiane,https://jmp2.uk/plu-6875080e3484d607323641f8.m3u8
 Pluto TV Documentales,https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
+Pluto TV Documentari,https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 Pluto TV Dokumentar,https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
 Pluto TV Dokumentär,https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
 Pluto TV Drama Movies,https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
@@ -1753,9 +1767,15 @@ Pluto TV Fantasy & Horror,https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
 Pluto TV FBI,https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8
 Pluto TV Ferne Galaxien,https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8
 Pluto TV Film Ancora Più Romantici,https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
+Pluto TV Film Azione,https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+Pluto TV Film Commedia,https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+Pluto TV Film Romantici,https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
 Pluto TV Film Storici,https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+Pluto TV Film Thriller,https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
 Pluto TV Filmes Aventura,https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
 Pluto TV Filmes de Luta,https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+Pluto TV Fishing,https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+Pluto TV Food,https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
 Pluto TV Footanim',https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8
 Pluto TV Fran: Beste Mama-Momente,https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8
 Pluto TV Franchise Favorites,https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
@@ -1772,6 +1792,7 @@ Pluto TV Handboll Live,https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 Pluto TV Harlequin,https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
 Pluto TV heiße Nächte,https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
 Pluto TV Heiße Nächte Retro,https://jmp2.uk/plu-664f10c4f9992200084a2f47.m3u8
+Pluto TV Histoire (720p),https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 Pluto TV Historia (720p),https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
 Pluto TV Historische Serien,https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 Pluto TV Hometown Drama,https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
@@ -1779,7 +1800,9 @@ Pluto TV Horror-Serien,https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
 Pluto TV Humor,https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
 Pluto TV Icons,https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 Pluto TV Impacto,https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
+Pluto TV Inside,https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
 Pluto TV Invasión Alien,https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
+Pluto TV Investigation,https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
 Pluto TV John Wayne,https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
 Pluto TV Junior (720p),https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
 Pluto TV Juniorklubben (720p),https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
@@ -1794,9 +1817,14 @@ Pluto TV Komedi,https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
 Pluto TV Komedie,https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
 Pluto TV Kult Comedies,https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
 Pluto TV Kultfilm,https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
+Pluto TV Kultfilme,https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
 Pluto TV Kultfilmer,https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
 Pluto TV Laughs in Spanish,https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8
 Pluto TV Legami Letali,https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
+Pluto TV Movies,https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+Pluto TV Mystery,https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+Pluto TV Natura,https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+Pluto TV Nature,https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
 Pluto TV Negócio Fechado,https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
 Pluto TV Netmovies,https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 Pluto TV Nordic Crime,https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
@@ -1811,18 +1839,22 @@ Pluto TV Orgullo,https://jmp2.uk/plu-63fe0111dff38e00083510f9.m3u8
 Pluto TV Overnaturlig,https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
 Pluto TV Peleas,https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 Pluto TV PetrolHeads,https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
+Pluto TV Polar,https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 Pluto TV Policial,https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
 Pluto TV Polizeiserien,https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 Pluto TV Pride,https://jmp2.uk/plu-69f209cd0ed14e790bddeb46.m3u8
 Pluto TV Psycho,https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+Pluto TV Real Life,https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
 Pluto TV Reportagen,https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
 Pluto TV Retro Action Movies,https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
 Pluto TV Retro Crime Action,https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
 Pluto TV Retro Crime Drama,https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
 Pluto TV Retro Kid,https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+Pluto TV Retro Toons,https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 Pluto TV Romantik,https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 Pluto TV Romantikk,https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
 Pluto TV Sanfte Berührungen,https://jmp2.uk/plu-67d983d6a1609bdb523f5f9b.m3u8
+Pluto TV Serie,https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 Pluto TV Serie Crime,https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
 Pluto TV Serie Sci-Fi,https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
 Pluto TV Séries Ação,https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
@@ -1837,14 +1869,19 @@ Pluto TV Series de Sci-Fi,https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
 Pluto TV Séries Drama,https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
 Pluto TV Séries Fantastiques,https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 Pluto TV Séries Novelescas,https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+Pluto TV Séries Sci-Fi,https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+Pluto TV Sherlock,https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
 Pluto TV Shore,https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
+Pluto TV Sitcoms,https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 Pluto TV Snooker 900 (720p),https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 Pluto TV Star Trek: Animation,https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
 Pluto TV Storia,https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 Pluto TV Super Kids,https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 Pluto TV Tecknade klassiker (720p),https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
 Pluto TV Tecknat (720p),https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
+Pluto TV Teen (720p),https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
 Pluto TV Tegnefilm (720p),https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+Pluto TV Telenovelas,https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
 Pluto TV Telenovelas Clásicas,https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 Pluto TV Téléréalité France,https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
 Pluto TV Terror Trash,https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
@@ -4142,6 +4179,7 @@ Canal 8 Catacaos (720p) [Not 24/7],https://live.obslivestream.com/canal8/index.m
 Canal 8 TV+ (720p),https://movil.ejeserver.com/live/canal8tv.m3u8
 Canal 8 Vision TV (1080p),https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 Canal 9 Barbe TV (720p) [Not 24/7],https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+Canal 9 Cosespu,https://video2.lhdserver.es/canal9cosespu/live.m3u8
 Canal 9 Resistencia (720p),http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 Canal 10 (720p) [Not 24/7],https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 Canal 10 Chiapas (720p),https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
@@ -4317,7 +4355,7 @@ ConstanzaTV (1080p) [Not 24/7],https://live20.bozztv.com/akamaissh101/ssh101/ctv
 Coral TV (720p),https://tv.mediacp.eu:8081/coraltv/index.m3u8
 Correa Radiovision,https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
 Corrientes TV,https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
-Cosmovision (720p),https://videohls2.cosmovision.tv/hls/sd.m3u8
+Cosmovision (720p),https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
 Costa Mesa's Municipal Access Channel CMTV 3 (720p),https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 Costa Noroeste TV (1080p) [Not 24/7],https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 Coto Brus TV (720p),https://cloudvideo.servers10.com:8081/8030/index.m3u8
@@ -4465,6 +4503,7 @@ Elsharq TV (1080p) [Not 24/7],https://mn-nl.mncdn.com/elsharq_live/live/playlist
 Elshinta TV,https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 Elsö Kerület TV (1080p),https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
 Elwatania TV (1080i),https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+Emisora Comunitaria 104.1 FM,https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https%3A%2F%2Fstreamyes.alsolnet.com%2Fcomunitariafm%2Flive%2Fplaylist.m3u8
 Empordà TV (1080p),https://video3.lhdserver.es/empordatv2/live.m3u8
 ems TV Lingen (720p),https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
 ENA Channel (1080p),https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
@@ -4580,6 +4619,7 @@ HD365 TV (576p),https://testcam.go.ro:8080/hls/hd365.m3u8
 Hebei TV (2160p),https://event.pull.hebtv.com/live/live101.m3u8
 Hechos Ecuador (1080p) [Not 24/7],https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 Hegyvidek Tv Budapest (576p) [Not 24/7],https://tv.hegyvidek.hu/stream_mpeg.flv
+Heliconia Radio TV (720p),https://eu1.servers10.com:8081/8178/index.m3u8
 Hesper TV (1080p),https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8
 Hévízi TV (1080p),https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 HGPTV (720p) [Not 24/7],https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8
@@ -4876,6 +4916,7 @@ Mańǵystaý (540p) [Not 24/7],https://stream.kaztrk.kz/regional/mangystautv/ind
 Mar TV (1080p),http://iptv.services.everywan.net:8080/martv-web/video.m3u8
 Marca TV (1080p),http://200.7.219.221:8088/live/livetv/index.m3u8
 Marka TV (720p) [Not 24/7],https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
+Marsella TV,https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
 Mas Norte TV [Not 24/7],https://live.arnoproducciones.com/hls/norte.m3u8
 Mashariki TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
 MaTele (1080p) [Not 24/7],https://live.matele.be/hls/live.m3u8
@@ -5032,6 +5073,7 @@ Newfoundland Television (480p),https://2-fss-1.streamhoster.com/pl_122/201748-14
 News 11 (576p),https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
 NewTV (1080p),https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 Nex TV Canal 21,https://movil.ejeserver.com/live/nextv.m3u8
+Nexo TV,https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
 Nexxo TV (720p) [Not 24/7],https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 NG Federal (720p),http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 Nghệ An TV (1080p),https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
@@ -5173,6 +5215,7 @@ Palenque TV,https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 Palestine,https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
 Palmar TV [Not 24/7],https://streamunoapp.com:3255/live/palmartvlive.m3u8
 Panc TV (720p) [Not 24/7],https://panel.host-live.com:19360/20004/20004.m3u8
+Panche Television,https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 Pannon RTV (648p),https://stream.nmih.hu:4102/live.m3u8
 Paraguay TV (1080p),https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 Paravision,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
@@ -5422,6 +5465,7 @@ Solo TV,https://sproxy.solotv.cl/hls/live/fhd.m3u8
 Soltvadkerti Televízió (720p),http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
 Somali National TV (576p),https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 Somos TV (720p) [Not 24/7],https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+Soona TV,https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
 Sor TV (720p),http://188.237.212.16:8888/live/cameraFeed.m3u8
 Sound View Community Media Education (480p),https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Space TV,https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
@@ -5499,6 +5543,7 @@ Tele Poder TV (720p) [Not 24/7],https://cdn.telepoder.online:3229/dash/stream.m3
 Tele Posadas (720p),https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 Tele Proyecto TV [Not 24/7],https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 Tele Sahel (1080p),https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+Tele San Jacinto,https://vs20.live.opencaster.com/sjradio_4c916ece/index.m3u8
 Tele Tchad (1080p),https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 Tele Variete,https://acwstream.com/hb/chaine30/playlist.m3u8
 Teleacras (576p),https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8
@@ -5801,6 +5846,7 @@ UniTV (720p),https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 UPP TV/Bolivisión SCZ (720p) [Not 24/7],https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 Urola Telebista (416p),https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 V+ TVI (720p),https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+Vahos TV,https://canal.vahostv.com/stream/0.m3u8
 Vale TV (480p) [Not 24/7],https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 Valle Nuevo TV,https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 Vallejo Community Access Television (V-CAT) (Vallejo CA) (480p),https://vallejo.cablecast.tv/live-3/live/live.m3u8
@@ -6500,6 +6546,7 @@ Minformo TV (720p),https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/pl
 Miracle TV (1080p),https://live.miracleonline.org/hls/miracle1.m3u8
 Mírame TV (360p) [Not 24/7],https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 Mirror Now (720p),https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
+Momento24,https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
 Monaco Info (1080p),https://webtv.monacoinfo.com/live/prod/index.m3u8
 Moon TV (720p),https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 MRTV News,https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
@@ -7340,9 +7387,6 @@ Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
 Pimp My Ride,https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
 Play Entertainment (576p),http://103.250.28.74:8000/play/a050/index.m3u8
 PLEX TV,http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
-Pluto TV Animales,https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
-Pluto TV Animation,https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
-Pluto TV Conspiracy,https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 Pluto TV Dating (720p),https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
 Pluto TV Game Shows,https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
 Pluto TV Reality,https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8
@@ -7441,6 +7485,7 @@ TV Curuça (360p),https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 TV Digital Biriguí (640p),http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 TV Empire Magazine (720p),https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
 TV ERA,https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+TV Golfo Uraba,https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
 TV Grande Natal (1080p),http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 TV ITN,https://itnhls.wns.live/hls/stream.m3u8
 TV Nova (720p),https://stream.agatin.hr:3727/live/tvnovalive.m3u8
@@ -8071,6 +8116,7 @@ Sankhya TV (720p),https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKH
 Sanskar UK (1080p),https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 Sanskar USA (1080p),https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
 Sanskar Web TV (1080p),https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
+Santel TV,https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
 Sat7 Pars,https://sat7phls.wns.live/hls/stream.m3u8
 Satsang TV (1080p),https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 Satsang Web TV (1080p),https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
@@ -8164,6 +8210,7 @@ TV Universal (480p),https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp
 TV Universal Ecuador (720p),https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 TVCa Televisión Católica Arquidiocesana (720p),https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 TVCARiB Gospel (480p) [Not 24/7],https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+TVGracia,https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 Unife TV,https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
 Urejesho TV Africa (360p) [Not 24/7],https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
 Vedic (480p),https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
@@ -8364,16 +8411,9 @@ Pluto TV Lives,https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 Pluto TV Mi Obsesión Favorita,https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
 Pluto TV Military,https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
 Pluto TV Novelas,https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
-Pluto TV Polar,https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
-Pluto TV Real Life,https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
-Pluto TV Serie,https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 Pluto TV Series,https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
 Pluto TV Series Latinas,https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
-Pluto TV Séries Sci-Fi,https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
-Pluto TV Sherlock,https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
 Pluto TV Star Trek,https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
-Pluto TV Telenovelas,https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8
-Pluto TV True Crime,https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 Rotana Drama (1080p),https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 Roya Drama (1080p),https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 RTL Crime HD (1080p),http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
@@ -8539,8 +8579,6 @@ Persiana Teen,https://kphls.persiana.live/hls/stream.m3u8
 PLUSPLUS (720p) [Not 24/7],http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6379/index.m3u8
 Pluto TV Forever Kids,https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
 Pluto TV Kids Spain (720p),https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
-Pluto TV Retro Toons,https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
-Pluto TV Teen (720p),https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
 pocket.watch Game On (1080p),https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
 Polsat JimJam (576p) [Not 24/7],http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7298/index.m3u8
 Pooya & Nahal,https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
@@ -8715,7 +8753,7 @@ El Sol Network TV (1080p),https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 Ellinikos FM (720p),https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 EnerGeek Radio (1080p),https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 Epic Music (720p),http://103.213.31.109:90/ShowBox/playlist.m3u8
-Eska Rock TV (1080p) [Not 24/7],http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/19172/index.m3u8
+Eska Rock TV (1080p),http://81.15.109.89:8001/play/EskaRock
 Eska TV (1080p),http://91.246.72.88:8000/play/a002/index.m3u8
 Eska TV Extra (1080p),http://81.15.109.89:8001/play/EskaTVExtra
 ETV Music (1080p),https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
@@ -8730,6 +8768,7 @@ Falastini TV (1080p),https://rp.tactivemedia.com/palestiniantv_source/live/playl
 Famatv (1080p) [Not 24/7],https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 Fame95 FM (480p),https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
 Farra Play (720p) [Not 24/7],http://159.203.148.226/live/farra.m3u8
+Fiesta TV,https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 Finest TV (288p) [Not 24/7],https://media.finest.tv/hls/live.m3u8
 Flex Studio Radio TV [Not 24/7],https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
 FM ITALIA (1080p),https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
@@ -9016,6 +9055,7 @@ RTL Today Radio (720p),https://stream.rtl.lu/data/live/tele/rtltodayradio/playli
 RTV Vida (1080p),https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 RU.TV (1080p),https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 Salsa Gorda Television (1080p) [Not 24/7],https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+Salsa Latina FM,https://panel.streamingmedia.com.co:3557/stream/play.m3u8
 Salto Brasa Music (1080p),https://salto-streams.nl/hls/sotv1.m3u8
 Sana Plus (1080p),https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 Sangeet Bangla (720p),https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -9279,10 +9319,7 @@ Nova (1080p),http://92.176.119.180:2095/play/a1eh
 PBS Antiques Road Trip (1080p),https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 PBS Travel (1080p),https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
 Plous TV (1080p),https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-Pluto TV Cucina,https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
-Pluto TV Cuisine,https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
 Pluto TV Estilo de Vida,https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
-Pluto TV Food,https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
 QS24.tv (1080p),https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
 QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 Revry (720p),https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
@@ -9316,7 +9353,6 @@ AFV en Español (720p) [Not 24/7],https://linear-46.frequency.stream/dist/plex/4
 alpha Funny (1080p),https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 America’s Funniest Home Videos (1080p),https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
 Camera Smile (480p),https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
-CC Pluto TV,https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 Classic TV Comedy,https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
 Comedy Central Animation,https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 Comedy Central en español,https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
@@ -9342,12 +9378,8 @@ Mystery Science Theater 3000 (1080p),https://d1c73nj8qxp55a.cloudfront.net/Myste
 NBC Comedy Vault (1080p),https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 Persiana Comedy,https://comedyhls.persiana.live/hls/stream.m3u8
 Pluto TV British Comedy,https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
-Pluto TV Classic TV,https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
 Pluto TV Comedia made in Spain,https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
-Pluto TV Comédie,https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
 Pluto TV Scherzi e risate,https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
-Pluto TV Séries Comédia,https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
-Pluto TV Sitcoms,https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 RiffTrax (720p),https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
 Rotana Comedy (1080p),https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 Roya Comedy (1080p),https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
@@ -9382,7 +9414,6 @@ Jordan Kitchen (1080p),https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/
 Mad Dog and Merrill (540p) [Not 24/7],https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
 Masala TV (576p),http://103.250.28.74:8000/play/a02x/index.m3u8
 MAX Eats,https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
-Pluto TV Cocina,https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 Roya Kitchen (1080p),https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 Tastemade (1080p),https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8
 Tastemade Australia (1080p),https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
@@ -9402,6 +9433,9 @@ Ebony TV by Lionsgate (1080p),https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3
 OuterSphere (1080p),https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 Pantalla Clásica EC (512p) [Not 24/7],https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 Paramount Network [Not 24/7],http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8
+Pluto TV Horror,https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
+Pluto TV Romance,https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
+Pluto TV Sci-fi,https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 Squirrel (1080p),http://92.176.119.180:2095/play/a1ey
 Veo7 (1080p),http://92.176.119.180:2095/play/a1f1
 Viasat Serial (1080p) [Not 24/7],http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/17056/index.m3u8
@@ -9430,9 +9464,6 @@ Okhota i rybalka,https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 Outdoor America (1080p),https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
 Outdoor Channel (1080p),https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 Pluto TV Backcountry,https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
-Pluto TV Fishing,https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
-Pluto TV Naturaleza,https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
-Pluto TV Nature,https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
 Productiva TV,https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
 Pursuit UP (1080p),https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
 Spike Outdoors,https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
@@ -9839,6 +9870,7 @@ Bom Cine (1080p),http://92.176.119.180:2095/play/a1fu
 Boreal (720p) [Not 24/7],https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 Bravo Farsi TV (360p),https://bravoohls.wns.live/hls/stream.m3u8
 Cafe Film,https://cafefhls.wns.live/hls/stream.m3u8
+Canal Cine Dios,https://canal.mediaserver.com.co/live/cinedios.m3u8
 CCTV-6 (1080p),http://69.30.245.50/live/cctv6.m3u8
 CCTV-Storm Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV-The First Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
@@ -10000,28 +10032,17 @@ Pluto TV Cine Comédia,https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 Pluto TV Cine Drama,https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
 Pluto TV Cine Família,https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 Pluto TV Cine Romance,https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
-Pluto TV Cine Romántico,https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 Pluto TV Cine Sucessos,https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 Pluto TV Cine Suspenso,https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
-Pluto TV Cinema Italiano,https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
 Pluto TV Crime Drama,https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 Pluto TV Crime Movies,https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
 Pluto TV Cult Films,https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
 Pluto TV Drama,https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
 Pluto TV Ficção Científica,https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 Pluto TV Film,https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
-Pluto TV Film Azione,https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
-Pluto TV Film Commedia,https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
-Pluto TV Film Romantici,https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
-Pluto TV Film Thriller,https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
 Pluto TV Filmes Ação,https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
 Pluto TV Filmes Nacionais,https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
-Pluto TV Horror,https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
-Pluto TV Kultfilme,https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
-Pluto TV Movies,https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
 Pluto TV Reaction,https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
-Pluto TV Romance,https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
-Pluto TV Sci-fi,https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 Pluto TV Spotlight,https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
 Pluto TV Staff Picks,https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 Pluto TV Terror,https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
@@ -10254,15 +10275,8 @@ O'zbekiston Tarixi (1080p),https://stream8.cinerama.uz/1209/tracks-v1a1/playlist
 On the Case,https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
 Persiana Docs,https://scihls.persiana.live/hls/stream.m3u8
 Persiana Travel,https://ptravelhls.persiana.live/hls/stream.m3u8
-Pluto TV Animals,https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
-Pluto TV Crime,https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
-Pluto TV Documentari,https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 Pluto TV History,https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
-Pluto TV Inside,https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
 Pluto TV Investigação,https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
-Pluto TV Investigation,https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
-Pluto TV Mystery,https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
-Pluto TV Natura,https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
 Pluto TV Paranormal,https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
 RL PRO TV,https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 RT Documentary English (1080p),https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -10296,7 +10310,6 @@ Eko TV (720p),https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 Explosión Creativa (720p) [Not 24/7],https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 Ilm va Tabiat (1080p),https://live.teleradiocom.tj/15/3m.m3u8
 InWonder (1080p),https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
-Pluto TV Science,https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 Pluto TV Space,https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
 Wonder (1080p),https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 山东农科 (406p),http://livealone302.iqilu.com/iqilu/nkpd.m3u8
@@ -10786,6 +10799,7 @@ Radio Suyai TV (1080p),https://signal.suyaitv.cl/live/26/playlist.m3u8?password=
 
 Comedy;Series,#genre#
 Anger Management Channel (1080p),https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+Pluto TV Séries Comédia,https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
 The Chat Show Channel (1080p),https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 The Conners (1080p),https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
 
@@ -10847,8 +10861,6 @@ Maldives TV (720p),https://lana.psm.mv/live/mtv.m3u8
 NOTV New Orleans TV (720p),http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 OEPM TV (720p),https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 Palm Beaches TV (720p),https://live.feed.thepalmbeaches.tv/index.m3u8
-Pluto TV Animaux,https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
-Pluto TV Histoire (720p),https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 RTG TV (720p),http://31.148.48.15/RTG_HD/index.m3u8
 Schladming-Dachstein TV (720p),https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
 Tanzania Safari Channel (576p),https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
@@ -10907,6 +10919,7 @@ Mr. Bean Anime Italy (1080p),https://amg00627-amg00627c29-rakuten-it-3989.playou
 Mr. Bean Anime Spain (1080p),https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 Multimania (Latvia) (576p),https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8
 Nickelodeon (576p),http://195.64.140.147:10121/121
+NickOnline (360p),https://x1co.com.br/hls/stream.m3u8
 NickToons Brasil (480p),https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 NickWeb (720p),https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
 Pingviin (576p),https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
@@ -11107,6 +11120,7 @@ Gooder Nation Channel 32 (720p) [Not 24/7],https://ssh101stream.ssh101.com/akama
 
 Documentary;Series,#genre#
 GZT (1080p),https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+Pluto TV True Crime,https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 Сити Эдем КиноДок [Not 24/7],https://cityeden.catcast.tv/content/38354/index.m3u8
 
 Entertainment;General;Series,#genre#
@@ -11205,6 +11219,12 @@ Outdoor;Travel,#genre#
 Peer TV Alto Adige (1280p),https://iptv.peer.biz/live/peertv-it.m3u8
 Peer TV South Tyrol (1280p),https://iptv.peer.biz/live/peertv-en.m3u8
 Peer TV Südtirol (1080p),https://iptv.peer.biz/live/peertv.m3u8
+
+Documentary;Outdoor,#genre#
+Pluto TV Naturaleza,https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+
+Documentary;Science,#genre#
+Pluto TV Science,https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 
 Entertainment;Lifestyle;Music,#genre#
 PRIDEtv LATAM (1080p),https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
