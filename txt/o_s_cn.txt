@@ -154,7 +154,6 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 安徽 Ⅰ 郎溪综合台 (1080p),http://117.70.93.210:1935/live/xinwen/playlist.m3u8
 安徽 Ⅰ 铜陵公共 (720p),http://dstpush1.retalltech.com/app/stream2.m3u8
 安徽 Ⅰ 铜陵综合 (720p),http://dstpush1.retalltech.com/app/stream1.m3u8
-安徽卫视 (2160p),http://118.81.195.79:9003/hls/21/index.m3u8
 完美游戏 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/wmyx/wmyx
 家庭影院 (1080p),http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 家庭理财 (576p),http://223.110.245.139/PLTV/4/224/3221227011/index.m3u8
