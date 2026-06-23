@@ -149,4 +149,4 @@
 | 143 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 144 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **Mon Jun 22 2026 23:38:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 23 2026 02:57:13 GMT+0000 (Coordinated Universal Time)**
