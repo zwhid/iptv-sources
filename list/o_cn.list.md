@@ -64,7 +64,7 @@
 | 58 | Jilin Rural Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8> |
 | 59 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
 | 60 | Nanchang News & Generalist Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8> |
-| 61 | like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Nei Monggol TV (960p) | cdn4.skygo.mn | <https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8> |
+| 61 | Nei Monggol TV (1080i) [Not 24/7] | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1769652018126032.m3u8> |
 | 62 | Nei Monggol TV 2 Mongolian Culture Channel | IPv4 直链 | <http://1.24.190.98:10080/hls/40/index.m3u8> |
 | 63 | QTV-1 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8> |
 | 64 | QTV-2 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8> |
@@ -150,4 +150,4 @@
 | 144 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 145 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **Wed Jul 08 2026 23:03:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 09 2026 02:44:07 GMT+0000 (Coordinated Universal Time)**
