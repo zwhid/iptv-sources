@@ -123,7 +123,7 @@
 | 117 | 浙江卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 | 118 | 滁州市广播电视台 公共频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8> |
 | 119 | 滁州市广播电视台 新闻综合频道 (1080p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/xwpd.m3u8> |
-| 120 | 滁州科教 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvkj/playlist.m3u8> |
+| 120 | 滁州市广播电视台 科教频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/sjpd.m3u8> |
 | 121 | 白城新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/baicheng1/sd/live.m3u8> |
 | 122 | 纪实人文 (1080p) | IPv4 直链 | <http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8> |
 | 123 | 萍乡新闻综合 (576p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8> |
@@ -142,4 +142,4 @@
 | 136 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 137 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 
-Updated at **Mon Aug 17 2026 22:20:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 18 2026 01:03:17 GMT+0000 (Coordinated Universal Time)**
