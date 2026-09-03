@@ -1,4 +1,4 @@
-# List for **joevess/IPTV home**(Rollback)
+# List for **joevess/IPTV home**
 
 > M3U: [j_home.m3u](/j_home.m3u), TXT: [j_home.txt](/txt/j_home.txt)
 
@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 
 
-Updated at **Thu Sep 03 2026 02:53:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 03 2026 08:31:48 GMT+0000 (Coordinated Universal Time)**
