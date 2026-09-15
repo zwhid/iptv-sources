@@ -1,4 +1,4 @@
-# List for **epg.pw China**
+# List for **epg.pw China**(Rollback)
 
 > M3U: [cn.m3u](/cn.m3u), TXT: [cn.txt](/txt/cn.txt)
 
@@ -186,4 +186,4 @@
 | 180 | [HD]溧水新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.ctv> |
 | 181 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/528283ee39bbe8287dd6eb3ce1ae0e404eca1d20caecd4038d62967a25de026e.ctv> |
 
-Updated at **Tue Sep 15 2026 07:10:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Sep 15 2026 13:07:19 GMT+0000 (Coordinated Universal Time)**
