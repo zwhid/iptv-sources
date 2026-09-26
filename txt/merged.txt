@@ -752,7 +752,7 @@ AXN CEE Bulgary,http://85.11.144.9:4222/AXN
 AXN Latin America (1080p),http://138.121.15.230:9002/AXN/index.m3u8
 AXN Latin America Chile (1080p),https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
 AXN Latin America Mexico,http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-AXN Latin America South,http://45.228.235.116:8000/play/a0iy/index.m3u8
+AXN Latin America South (1080p),http://181.78.12.119:16123/play/ch46/index.m3u8
 Az Cinema (1080p),https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
 B4U Bhojpuri (1080p),https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 B4U Kadak (576p),https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
@@ -815,6 +815,7 @@ Cinecanal Pacific (1080p),http://138.121.15.230:9002/CINECANAL/index.m3u8
 CineLatino (720p),http://45.162.193.35/CINELATINO_HD/index.m3u8
 Cinema (Russia) (576p),http://flussonic.linkintel.ru/cinema/index.m3u8
 CinemaWorld (720p),http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+Cinemax Action East HD (1080p),https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
 Cinemax Classics (1080p),http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 Cinemax Hits (1080p),http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 CineStar 1 Bulgaria,http://213.91.179.28:8000/play/a05h
@@ -1807,6 +1808,7 @@ Channel One (Russia) HD (720p),https://edge1.1internet.tv/dash-live2/streams/1tv
 Channel One CIS (576p),https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 Channel One Eurasia (576p),https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
 Channel-16 (406p) [Not 24/7],http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+Chaozhou Public Channel,http://113.64.146.48:1688/hls/4/index.m3u8
 Charapa TV (720p),https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 Charoen Cable 37 TV,http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 CHCO-TV (720p),https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
@@ -3765,6 +3767,7 @@ Azahares Radiovisual Multimedia (720p),https://streamyes.alsolnet.com/azaharesfm
 B4U Music (576p),https://cdn.pishow.tv/ott/live/415/master.m3u8
 Balle Balle (576p),https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
 Balle Balle HD (720p),https://mcncdndigital.com/balleballetv/index.m3u8
+Bandamax (1080p),http://181.78.106.127:5000/play/ca064/index.m3u8
 Baraza TV (1080p),https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 Baraza TV Deep House (720p),https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 Baraza TV Relaxing (720p),https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
@@ -4964,7 +4967,7 @@ Novorossiya TV (1080p),http://31.131.139.253:9002/novoros/index.m3u8
 Novyny.Live,rtmp://95.67.11.153/klive/stream
 NRT TV (720p) [Not 24/7],https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 NSC9 News (1080p),https://legitpro.co.in/nsc9/index.m3u8
-NTN24 (576p),http://181.78.8.199:8000/play/a0a6/index.m3u8
+NTN24 (720p),http://181.78.12.119:16123/play/ch80/index.m3u8
 NTV Telugu (1080p),https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 NW Info 2 (576p),https://hls.newworldtv.com/nw-info-2/video/live.m3u8
 NW Info (576p),https://hls.newworldtv.com/nw-info/video/live.m3u8
@@ -8480,6 +8483,7 @@ Mult i muzyka (576p),http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
 Multilandia (576p),https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
 My Kidz (720p),https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 Nick Jr. (Croatia) (540p),http://176.61.157.250/NickJr/index.m3u8
+Nick Jr. (United States) East HD (1080p),https://sra72yz.s.gy/NICK_JR_HD.m3u8
 Nick Jr. Asia (720p),http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
 Nick Jr. Asia HD (720p),http://58.8.186.128:10003/bysid/2330
 Nick Jr. Club (Germany) (720p),https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
@@ -8949,6 +8953,7 @@ We Sport TV,http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 Willow (720p),http://tvsen5.aynascope.net/willowhd/index.m3u8
 Willow Sports (1080p),https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
 Win Sports (1080p),http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+Win+ Futbol (1080p),http://181.78.12.119:16123/play/ch19/index.m3u8
 World of Freesports (1080p),https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 World Poker Tour (1080p),https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8
 World Poker Tour Germany,https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
@@ -9563,6 +9568,7 @@ Movies;Series,#genre#
 50 Cent Action (720p),https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 Amedia Hit (1080p),http://stream.mcquack.net/162/index.m3u8
 Amedia Premium (720p),http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+AXN Asia Philippines (576p),https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
 AXN Asia Taiwan (1080p),http://125.227.210.55:4050/VideoInput/play.ts
 AXN Asia Thailand (720p),http://58.8.186.128:10007/bysid/2814
 Battlestar Galactica,https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
@@ -9571,7 +9577,7 @@ Bonanza,https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 Bonanza CA,https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 Classic Movie Westerns,https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 Ebony TV by Lionsgate (1080p),https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
-HBO Hits (720p),http://tvsen7.aynascope.net/hbo2/index.m3u8
+HBO Drama (1080p),https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 HBO Hits East HD (720p),http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 HBO Movies (720p),http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 Medium (Germany),https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
@@ -11017,6 +11023,7 @@ Beijing Satellite TV HD (1080p),http://go.bkpcp.top/mg/bjws
 CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1 HD (1080p),http://69.30.245.50/live/cctv1.m3u8
 CCTV-4K HD (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+Chaozhou Public Channel,http://113.64.146.48:1688/hls/4/index.m3u8
 Chuzhou Public Channel (400p),http://live.cztv.cc:85/live/ggpd.m3u8
 Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 Fujian Comprehensive Channel,http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
@@ -11485,6 +11492,7 @@ Fujian Comprehensive Channel,http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%
 Guangxi Variety & Travel Channel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 Kangba TV,http://110.185.237.164:8888/hls/30/index.m3u8
 Chuxiong News Channel [Not 24/7],http://hwapi.yntv.net/ew265l/848y54.m3u8
+Chaozhou Public Channel,http://113.64.146.48:1688/hls/4/index.m3u8
 Undefined,#genre#
 douyu8,http://epg.112114.xyz/douyu/4332
 douyu9,http://epg.112114.xyz/douyu/6140589
